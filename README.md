@@ -36,24 +36,22 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 ### **Cloud & DevOps**
 - **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, ECS, EKS), Azure, Google Cloud
 - **Container Platforms**: Docker, Kubernetes, **Red Hat OpenShift**
-- **OpenShift Expertise**:
-  - OpenShift Container Platform (OCP) deployment and management
+- **OpenShift Development Skills**:
   - Source-to-Image (S2I) builds for Java applications
-  - OpenShift Routes, Services, and Ingress configuration
+  - OpenShift Routes, Services, and application networking
   - OpenShift Pipelines (Tekton) for CI/CD automation
-  - OpenShift Operators for application lifecycle management
-  - ConfigMaps, Secrets, and persistent volume management
-  - OpenShift Templates and Helm charts deployment
-  - Multi-tenancy and RBAC (Role-Based Access Control)
-  - OpenShift Service Mesh integration
+  - Application deployment using OpenShift Templates and Helm charts
+  - ConfigMaps, Secrets, and persistent volume configuration
+  - OpenShift Service Mesh integration for microservices
+  - Container image builds and deployment strategies
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI, **OpenShift Pipelines (Tekton)**
-- **Monitoring**: ELK Stack, Prometheus, Grafana, **OpenShift Monitoring Stack**
+- **Monitoring**: ELK Stack, Prometheus, Grafana, **OpenShift Application Monitoring**
 - **Version Control**: Git, GitHub, GitLab
 
 ### **Enterprise Technologies**
 - **Application Servers**: Apache Tomcat, WildFly, WebLogic, **JBoss EAP on OpenShift**
 - **Web Services**: REST APIs, GraphQL, SOAP, OpenAPI/Swagger
-- **Security**: OAuth 2.0, JWT, Spring Security, LDAP, **OpenShift Security Context Constraints (SCC)**
+- **Security**: OAuth 2.0, JWT, Spring Security, LDAP, **OpenShift Application Security**
 - **Testing**: JUnit 5, Mockito, TestNG, Cucumber, Postman
 
 ### **Architecture & Design Patterns**
@@ -88,7 +86,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 ### 🏦 **Banking Application Backend**
 **Tech Stack**: Spring Boot, Spring Security, MySQL, JUnit, Maven, **OpenShift Container Platform**
 - Created secure RESTful APIs for banking operations deployed on OpenShift
-- Implemented security using OpenShift Security Context Constraints (SCC)
+- Implemented security using OpenShift application security best practices
 - Used OpenShift Secrets for secure credential management
 - Configured persistent volumes for database storage on OpenShift
 - Features: Account management, Transaction processing, Audit logging
@@ -116,12 +114,11 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - ☕ **Oracle Certified Java Developer**
 - 🔄 **Certified Kubernetes Application Developer (CKAD)**
 - 🎯 **Red Hat Certified Specialist in OpenShift Application Development**
-- 🏗️ **Red Hat Certified OpenShift Administrator**
 
 ## 🌟 What I'm Working On
 
 - 🔬 **Current Project**: Building a cloud-native microservices platform with Spring Boot 3, Java 21, and OpenShift
-- 📚 **Learning**: Advanced OpenShift Operators development, Service Mesh (Istio) on OpenShift, and Cloud Security
+- 📚 **Learning**: Advanced OpenShift application development, Service Mesh (Istio) on OpenShift, and Cloud Security
 - 🎯 **Goal**: Contributing to open-source Java projects and building developer tools for OpenShift platform
 
 ## 📫 Let's Connect!
