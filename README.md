@@ -22,10 +22,11 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - **Build Tools**: Maven, Gradle
 
 ### **Frontend Development**
-- **Frameworks**: Angular 12+, React.js
+- **Framework**: Angular 12+
 - **Languages**: TypeScript, JavaScript (ES6+), HTML5, CSS3
 - **UI Libraries**: Angular Material, Bootstrap, PrimeNG
-- **State Management**: NgRx, Redux
+- **State Management**: NgRx
+- **Testing**: Jasmine, Karma, Protractor, Cypress
 
 ### **Database & Data Management**
 - **SQL Databases**: PostgreSQL, MySQL, Oracle, SQL Server
